@@ -1,0 +1,45 @@
+entity
+(suspected) deleterious BRCA1 variants
+(suspected) deleterious BRCA2 variants
+(suspected) deleterious gBRCA1 variants
+(suspected) deleterious gBRCA2 variants
+AKT1 variants
+ALK variants
+BRAF V600
+BRAF rearrangements
+EGFR exon 19 deletion variants
+EGFR exon 20 insertion variants
+EGFR variants
+EZH2 variants
+FGFR1 rearrangement
+FGFR2 rearrangements
+FGFR2::v
+FLT3 variants
+HER2 (ERBB2) variants
+HRR gene variants
+IDH1 variants
+IDH2 variants
+KMT2A translocations
+KRAS variants
+MET exon 14 skipping variants
+PDGFRA exon 18 variants
+PDGFRA rearrangement
+PDGFRB rearrangement
+PIK3CA variants
+PTEN variants
+RET variants
+TSC1 variants
+TSC2 variants
+deleterious BRCA1 variants
+deleterious BRCA2 variants
+non-resistant EGFR variants
+susceptible FGFR3 variants
+susceptible IDH1 variants
+v::ALK
+v::BRAF
+v::NRG1
+v::NTRK1
+v::NTRK2
+v::NTRK3
+v::RET
+v::ROS1

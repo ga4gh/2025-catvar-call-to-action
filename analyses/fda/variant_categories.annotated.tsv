@@ -1,0 +1,45 @@
+entity	gene	pathogenicity	exon	amino_acid	allele_origin	variant_type	fusion_partner	gene_set	clinical_annotation
+(suspected) deleterious BRCA1 variants	TRUE	TRUE							
+(suspected) deleterious BRCA2 variants	TRUE	TRUE							
+(suspected) deleterious gBRCA1 variants	TRUE	TRUE			TRUE				
+(suspected) deleterious gBRCA2 variants	TRUE	TRUE			TRUE				
+AKT1 variants	TRUE								
+ALK variants	TRUE								
+BRAF V600	TRUE			TRUE					
+BRAF rearrangements	TRUE					TRUE			
+EGFR exon 19 deletion variants	TRUE		TRUE			TRUE			
+EGFR exon 20 insertion variants	TRUE		TRUE			TRUE			
+EGFR variants	TRUE								
+EZH2 variants	TRUE								
+FGFR1 rearrangement	TRUE					TRUE			
+FGFR2 rearrangements	TRUE					TRUE			
+FGFR2::v	TRUE					TRUE	TRUE		
+FLT3 variants	TRUE								
+HER2 (ERBB2) variants	TRUE								
+HRR gene variants								TRUE	
+IDH1 variants	TRUE								
+IDH2 variants	TRUE								
+KMT2A translocations	TRUE					TRUE			
+KRAS variants	TRUE								
+MET exon 14 skipping variants	TRUE		TRUE			TRUE			
+PDGFRA exon 18 variants	TRUE		TRUE						
+PDGFRA rearrangement	TRUE					TRUE			
+PDGFRB rearrangement	TRUE					TRUE			
+PIK3CA variants	TRUE								
+PTEN variants	TRUE								
+RET variants	TRUE								
+TSC1 variants	TRUE								
+TSC2 variants	TRUE								
+deleterious BRCA1 variants	TRUE	TRUE							
+deleterious BRCA2 variants	TRUE	TRUE							
+non-resistant EGFR variants	TRUE								TRUE
+susceptible FGFR3 variants	TRUE								TRUE
+susceptible IDH1 variants	TRUE								TRUE
+v::ALK	TRUE					TRUE	TRUE		
+v::BRAF	TRUE					TRUE	TRUE		
+v::NRG1	TRUE					TRUE	TRUE		
+v::NTRK1	TRUE					TRUE	TRUE		
+v::NTRK2	TRUE					TRUE	TRUE		
+v::NTRK3	TRUE					TRUE	TRUE		
+v::RET	TRUE					TRUE	TRUE		
+v::ROS1	TRUE					TRUE	TRUE		

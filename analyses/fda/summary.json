@@ -1,0 +1,1910 @@
+[
+  {
+    "(suspected) deleterious BRCA1 variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": true,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 216793,
+          "drug_name_brand": "Akeega",
+          "drug_name_generic": "abiraterone acetate and niraparib",
+          "indication": "AKEEGA is a combination of niraparib, a poly (ADP-ribose) polymerase (PARP) inhibitor, and abiraterone acetate, a CYP17 inhibitor indicated with prednisone for the treatment of adult patients with deleterious or suspected deleterious BRCA-mutated (BRCAm) metastatic castration-resistant prostate cancer (mCRPC). Select patients for therapy based on an FDA-approved test for AKEEGA.",
+          "raw_biomarkers": "deleterious or suspected deleterious BRCA-mutated (BRCAm)",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216793s000lbl.pdf",
+          "categorical_variants": "(suspected) deleterious BRCA1 variants; (suspected) deleterious BRCA2 variants"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "(suspected) deleterious BRCA2 variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": true,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 216793,
+          "drug_name_brand": "Akeega",
+          "drug_name_generic": "abiraterone acetate and niraparib",
+          "indication": "AKEEGA is a combination of niraparib, a poly (ADP-ribose) polymerase (PARP) inhibitor, and abiraterone acetate, a CYP17 inhibitor indicated with prednisone for the treatment of adult patients with deleterious or suspected deleterious BRCA-mutated (BRCAm) metastatic castration-resistant prostate cancer (mCRPC). Select patients for therapy based on an FDA-approved test for AKEEGA.",
+          "raw_biomarkers": "deleterious or suspected deleterious BRCA-mutated (BRCAm)",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216793s000lbl.pdf",
+          "categorical_variants": "(suspected) deleterious BRCA1 variants; (suspected) deleterious BRCA2 variants"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "(suspected) deleterious gBRCA1 variants": {
+      "categories": {
+        "allele_origin": true,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": true,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 214876,
+          "drug_name_brand": "Zejula",
+          "drug_name_generic": "niraparib",
+          "indication": "ZEJULA is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the maintenance treatment of adult patients with deleterious or suspected deleterious germline BRCA-mutated recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in complete or partial response to platinum-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for ZEJULA.",
+          "raw_biomarkers": "deleterious or suspected deleterious germline BRCA-mutated",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/214876s000lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the maintenance treatment of adult patients with deleterious or suspected deleterious germline or somatic BRCA-mutated advanced epithelial ovarian, fallopian tube or primary peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "deleterious or suspected deleterious germline or somatic BRCA-mutated",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated in combination with bevacizumab for the maintenance treatment of adult patients with advanced epithelial ovarian, fallopian tube or primary peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy and whose cancer is associated with homologous recombination deficiency (HRD)-positive status defined by either a deleterious or suspected deleterious BRCA mutation, and/or genomic instability. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "HRD-positive defined by either a deleterious or suspected deleterious BRCA mutation and/or genomic instability",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the maintenance treatment of adult patients with deleterious or suspected deleterious germline or somatic BRCA-mutated recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer, who are in complete or partial response to platinum-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "deleterious or suspected deleterious germline or somatic BRCA-mutated",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the adjuvant treatment of adult patients with deleterious or suspected deleterious gBRCAm human epidermal growth factor receptor 2 (HER2)-negative high risk early breast cancer who have been treated with neoadjuvant or adjuvant chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "deleterious or suspected deleterious gBRCAm, HER2-negative",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the treatment of adult patients with deleterious or suspected deleterious gBRCAm, HER2-negative metastatic breast cancer who have been treated with chemotherapy in the neoadjuvant, adjuvant or metastatic setting. Patients with hormone receptor (HR)-positive breast cancer should have been treated with a prior endocrine therapy or be considered inappropriate for endocrine therapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "deleterious or suspected deleterious gBRCAm, HER2-negative",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the maintenance treatment of adult patients with deleterious or suspected deleterious gBRCAm metastatic pancreatic adenocarcinoma whose disease has not progressed on at least 16 weeks of a first-line platinum-based chemotherapy regimen. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "deleterious or suspected deleterious gBRCAm",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated in combination with abiraterone and prednisone or prednisolone for the treatment of adult patients with deleterious or suspected deleterious BRCA-mutated (BRCAm) metastatic castration-resistant prostate cancer (mCRPC). Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "deleterious or suspected deleterious BRCA-mutated",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 211651,
+          "drug_name_brand": "Talzenna",
+          "drug_name_generic": "talazoparib",
+          "indication": "TALZENNA is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated as a single agent for the treatment of adult patients with deleterious or suspected deleterious germline BRCA-mutated (gBRCAm) HER2-negative locally advanced or metastatic breast cancer. Select patients for therapy based on an FDA-approved companion diagnostic for TALZENNA.",
+          "raw_biomarkers": "deleterious or suspected deleterious germline BRCA-mutated (gBRCAm), HER2-negative",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/211651s012lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        }
+      ],
+      "relevant_approvals_count": 9
+    }
+  },
+  {
+    "(suspected) deleterious gBRCA2 variants": {
+      "categories": {
+        "allele_origin": true,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": true,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 214876,
+          "drug_name_brand": "Zejula",
+          "drug_name_generic": "niraparib",
+          "indication": "ZEJULA is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the maintenance treatment of adult patients with deleterious or suspected deleterious germline BRCA-mutated recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in complete or partial response to platinum-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for ZEJULA.",
+          "raw_biomarkers": "deleterious or suspected deleterious germline BRCA-mutated",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/214876s000lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the maintenance treatment of adult patients with deleterious or suspected deleterious germline or somatic BRCA-mutated advanced epithelial ovarian, fallopian tube or primary peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "deleterious or suspected deleterious germline or somatic BRCA-mutated",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated in combination with bevacizumab for the maintenance treatment of adult patients with advanced epithelial ovarian, fallopian tube or primary peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy and whose cancer is associated with homologous recombination deficiency (HRD)-positive status defined by either a deleterious or suspected deleterious BRCA mutation, and/or genomic instability. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "HRD-positive defined by either a deleterious or suspected deleterious BRCA mutation and/or genomic instability",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the maintenance treatment of adult patients with deleterious or suspected deleterious germline or somatic BRCA-mutated recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer, who are in complete or partial response to platinum-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "deleterious or suspected deleterious germline or somatic BRCA-mutated",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the adjuvant treatment of adult patients with deleterious or suspected deleterious gBRCAm human epidermal growth factor receptor 2 (HER2)-negative high risk early breast cancer who have been treated with neoadjuvant or adjuvant chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "deleterious or suspected deleterious gBRCAm, HER2-negative",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the treatment of adult patients with deleterious or suspected deleterious gBRCAm, HER2-negative metastatic breast cancer who have been treated with chemotherapy in the neoadjuvant, adjuvant or metastatic setting. Patients with hormone receptor (HR)-positive breast cancer should have been treated with a prior endocrine therapy or be considered inappropriate for endocrine therapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "deleterious or suspected deleterious gBRCAm, HER2-negative",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the maintenance treatment of adult patients with deleterious or suspected deleterious gBRCAm metastatic pancreatic adenocarcinoma whose disease has not progressed on at least 16 weeks of a first-line platinum-based chemotherapy regimen. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "deleterious or suspected deleterious gBRCAm",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated in combination with abiraterone and prednisone or prednisolone for the treatment of adult patients with deleterious or suspected deleterious BRCA-mutated (BRCAm) metastatic castration-resistant prostate cancer (mCRPC). Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "deleterious or suspected deleterious BRCA-mutated",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        },
+        {
+          "application_number": 211651,
+          "drug_name_brand": "Talzenna",
+          "drug_name_generic": "talazoparib",
+          "indication": "TALZENNA is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated as a single agent for the treatment of adult patients with deleterious or suspected deleterious germline BRCA-mutated (gBRCAm) HER2-negative locally advanced or metastatic breast cancer. Select patients for therapy based on an FDA-approved companion diagnostic for TALZENNA.",
+          "raw_biomarkers": "deleterious or suspected deleterious germline BRCA-mutated (gBRCAm), HER2-negative",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/211651s012lbl.pdf",
+          "categorical_variants": "(suspected) deleterious gBRCA1 variants; (suspected) deleterious gBRCA2 variants"
+        }
+      ],
+      "relevant_approvals_count": 9
+    }
+  },
+  {
+    "AKT1 variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 218197,
+          "drug_name_brand": "Truqap",
+          "drug_name_generic": "capivasertib",
+          "indication": "TRUQAP is a kinase inhibitor indicated, in combination with fulvestrant for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer with one or more PIK3CA/AKT1/PTEN-alterations as detected by an FDA-approved test following progression on at least one endocrine-based regimen in the metastatic setting or recurrence on or within 12 months of completing adjuvant therapy.",
+          "raw_biomarkers": "HR+, HER2-negative with one or more PIK3CA/AKT1/PTEN-alterations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/218197s000lbl.pdf",
+          "categorical_variants": "PIK3CA variants; AKT1 variants; PTEN variants"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "ALK variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 761034,
+          "drug_name_brand": "Tecentriq",
+          "drug_name_generic": "atezolizumab",
+          "indication": "TECENTRIQ is a programmed death-ligand 1 (PD-L1) blocking antibody indicated for the treatment of adult patients with metastatic NSCLC who have disease progression during or following platinum-containing chemotherapy. Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for NSCLC harboring these aberrations prior to receiving TECENTRIQ.",
+          "raw_biomarkers": "EGFR or ALK genomic tumor aberrations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761034s053lbl.pdf",
+          "categorical_variants": "EGFR variants; ALK variants"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "BRAF V600": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": true,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 761034,
+          "drug_name_brand": "Tecentriq",
+          "drug_name_generic": "atezolizumab",
+          "indication": "TECENTRIQ is a programmed death-ligand 1 (PD-L1) blocking antibody indicated in combination with cobimetinib and vemurafenib for the treatment of adult patients with BRAF V600 mutation-positive unresectable or metastatic melanoma.",
+          "raw_biomarkers": "BRAF V600",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761034s053lbl.pdf",
+          "categorical_variants": "BRAF V600"
+        },
+        {
+          "application_number": 202429,
+          "drug_name_brand": "Zelboraf",
+          "drug_name_generic": "vemurafenib",
+          "indication": "ZELBORAF is indicated for the treatment of patients with Erdheim-Chester Disease with BRAF V600 mutation.",
+          "raw_biomarkers": "BRAF V600",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202429s019lbl.pdf",
+          "categorical_variants": "BRAF V600"
+        },
+        {
+          "application_number": 217700,
+          "drug_name_brand": "Ojemda",
+          "drug_name_generic": "tovorafenib",
+          "indication": "OJEMDA is a kinase inhibitor indicated for the treatment of patients 6 months of age and older with relapsed or refractory pediatric low-grade glioma (LGG) harboring a BRAF fusion or rearrangement, or BRAF V600 mutation.",
+          "raw_biomarkers": "BRAF fusion or rearrangement, or BRAF V600 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/217700s000lbl.pdf",
+          "categorical_variants": "BRAF V600; BRAF rearrangements; v::BRAF"
+        }
+      ],
+      "relevant_approvals_count": 3
+    }
+  },
+  {
+    "BRAF rearrangements": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 217700,
+          "drug_name_brand": "Ojemda",
+          "drug_name_generic": "tovorafenib",
+          "indication": "OJEMDA is a kinase inhibitor indicated for the treatment of patients 6 months of age and older with relapsed or refractory pediatric low-grade glioma (LGG) harboring a BRAF fusion or rearrangement, or BRAF V600 mutation.",
+          "raw_biomarkers": "BRAF fusion or rearrangement, or BRAF V600 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/217700s000lbl.pdf",
+          "categorical_variants": "BRAF V600; BRAF rearrangements; v::BRAF"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "EGFR exon 19 deletion variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": true,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 211288,
+          "drug_name_brand": "Vizimpro",
+          "drug_name_generic": "dacomitinib",
+          "indication": "VIZIMPRO is a kinase inhibitor indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 19 deletion or exon 21 L858R substitution mutations as detected by an FDA-approved test.",
+          "raw_biomarkers": "EGFR exon 19 deletion or exon 21 L858R substitution mutations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/211288s003lbl.pdf",
+          "categorical_variants": "EGFR exon 19 deletion variants"
+        },
+        {
+          "application_number": 21743,
+          "drug_name_brand": "Tarceva",
+          "drug_name_generic": "erlotinib",
+          "indication": "TARCEVA is a kinase inhibitor indicated for the treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) substitution mutations as detected by an FDA-approved test receiving first-line, maintenance, or second or greater line treatment after progression following at least one prior chemotherapy regimen. Safety and efficacy of TARCEVA have not been established in patients with NSCLC whose tumors have other EGFR mutations. TARCEVA is not recommended for use in combination with platinum-based chemotherapy.",
+          "raw_biomarkers": "EGFR exon 19 deletions or exon 21 L858R",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021743s025lbl.pdf",
+          "categorical_variants": "EGFR exon 19 deletion variants"
+        },
+        {
+          "application_number": 206995,
+          "drug_name_brand": "Iressa",
+          "drug_name_generic": "gefitinib",
+          "indication": "IRESSA is a tyrosine kinase inhibitor indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) substitution mutations as detected by an FDA-approved test. Limitation of Use: Safety and efficacy of IRESSA have not been established in patients whose tumors have EGFR mutations other than exon 19 deletions or exon 21 (L858R) substitution mutations.",
+          "raw_biomarkers": "EGFR exon 19 deletions or exon 21 (L858R) substitution mutations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/206995s004lbl.pdf",
+          "categorical_variants": "EGFR exon 19 deletion variants"
+        },
+        {
+          "application_number": 208065,
+          "drug_name_brand": "Tagrisso",
+          "drug_name_generic": "osimertinib",
+          "indication": "TAGRISSO is a kinase inhibitor indicated for adjuvant therapy after tumor resection in adult patients with non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 L858R mutations, as detected by an FDA-approved test.",
+          "raw_biomarkers": "EGFR exon 19 deletions or exon 21 L858R mutations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/208065s033lbl.pdf",
+          "categorical_variants": "EGFR exon 19 deletion variants"
+        },
+        {
+          "application_number": 208065,
+          "drug_name_brand": "Tagrisso",
+          "drug_name_generic": "osimertinib",
+          "indication": "TAGRISSO is a kinase inhibitor indicated for the first-line treatment of adult patients with metastatic NSCLC whose tumors have EGFR exon 19 deletions or exon 21 L858R mutations, as detected by an FDA-approved test.",
+          "raw_biomarkers": "EGFR exon 19 deletions or exon 21 L858R mutations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/208065s033lbl.pdf",
+          "categorical_variants": "EGFR exon 19 deletion variants"
+        },
+        {
+          "application_number": 208065,
+          "drug_name_brand": "Tagrisso",
+          "drug_name_generic": "osimertinib",
+          "indication": "TAGRISSO is a kinase inhibitor indicated in combination with pemetrexed and platinum-based chemotherapy, the first-line treatment of adult patients with locally advanced or metastatic NSCLC whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 L858R mutations, as detected by an FDA-approved test.",
+          "raw_biomarkers": "EGFR exon 19 deletions or exon 21 L858R mutations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/208065s033lbl.pdf",
+          "categorical_variants": "EGFR exon 19 deletion variants"
+        },
+        {
+          "application_number": 125477,
+          "drug_name_brand": "Cyramza",
+          "drug_name_generic": "ramucirumab",
+          "indication": "CYRAMZA is a human vascular endothelial growth factor receptor 2 (VEGFR2) antagonist indicated in combination with erlotinib, for first-line treatment of metastatic non-small cell lung cancer with epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) mutations.",
+          "raw_biomarkers": "EGFR exon 19 deletions or exon 21 (L858R)",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/125477s042lbl.pdf",
+          "categorical_variants": "EGFR exon 19 deletion variants"
+        },
+        {
+          "application_number": 208065,
+          "drug_name_brand": "Tagrisso",
+          "drug_name_generic": "osimertinib",
+          "indication": "TAGRISSO is a kinase inhibitor indicated for the treatment of adult patients with locally advanced, unresectable (stage III) NSCLC whose disease has not progressed during or following concurrent or sequential platinum-based chemoradiation therapy and whose tumors have EGFR exon 19 deletions or exon 21 L858R mutations, as detected by an FDA-approved test.",
+          "raw_biomarkers": "EGFR exon 19 deletions or exon 21 L858R",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/208065s033lbl.pdf",
+          "categorical_variants": "EGFR exon 19 deletion variants"
+        },
+        {
+          "application_number": 761210,
+          "drug_name_brand": "Rybrevant",
+          "drug_name_generic": "amivantamab-vmjw",
+          "indication": "RYBREVANT is a bispecific EGF receptor-directed and MET receptor-directed antibody indicated in combination with lazertinib for the first-line treatment of adult patients with locally advanced or metastatic NSCLC with EGFR exon 19 deletions or exon 21 L858R substitution mutations, as detected by an FDA-approved test.",
+          "raw_biomarkers": "EGFR exon 19 deletions or exon 21 L858R",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761210s004lbl.pdf",
+          "categorical_variants": "EGFR exon 19 deletion variants"
+        },
+        {
+          "application_number": 219008,
+          "drug_name_brand": "Lazcluze",
+          "drug_name_generic": "lazertinib",
+          "indication": "LAZCLUZE is a kinase inhibitor indicated in combination with amivantamab for the first-line treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 L858R substitution mutations, as detected by an FDA-approved test.",
+          "raw_biomarkers": "EGFR exon 19 deletions or exon 21 L858R",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/219008s000lbledt.pdf",
+          "categorical_variants": "EGFR exon 19 deletion variants"
+        },
+        {
+          "application_number": 761210,
+          "drug_name_brand": "Rybrevant",
+          "drug_name_generic": "amivantamab-vmjw",
+          "indication": "RYBREVANT is a bispecific EGF receptor-directed and MET receptor-directed antibody indicated in combination with carboplatin and pemetrexed for the treatment of adult patients with locally advanced or metastatic NSCLC with EGFR exon 19 deletions or exon 21 L858R substitution mutations, whose disease has progressed on or after treatment with an EGFR tyrosine kinase inhibitor.",
+          "raw_biomarkers": "EGFR exon 19 deletions or exon 21 L858R",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761210s004lbl.pdf",
+          "categorical_variants": "EGFR exon 19 deletion variants"
+        }
+      ],
+      "relevant_approvals_count": 11
+    }
+  },
+  {
+    "EGFR exon 20 insertion variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": true,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 761210,
+          "drug_name_brand": "Rybrevant",
+          "drug_name_generic": "amivantamab-vmjw",
+          "indication": "RYBREVANT is a bispecific EGF receptor-directed and MET receptor-directed antibody indicated in combination with carboplatin and pemetrexed for the first-line treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 20 insertion mutations, as detected by an FDA-approved test.",
+          "raw_biomarkers": "EGFR exon 20 insertion mutations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761210s004lbl.pdf",
+          "categorical_variants": "EGFR exon 20 insertion variants"
+        },
+        {
+          "application_number": 761210,
+          "drug_name_brand": "Rybrevant",
+          "drug_name_generic": "amivantamab-vmjw",
+          "indication": "RYBREVANT is a bispecific EGF receptor-directed and MET receptor-directed antibody indicated as a single agent for the treatment of adult patients with locally advanced or metastatic NSCLC with EGFR exon 20 insertion mutations, as detected by an FDA-approved test, whose disease has progressed on or after platinum-based chemotherapy.",
+          "raw_biomarkers": "EGFR exon 20 insertion mutations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761210s004lbl.pdf",
+          "categorical_variants": "EGFR exon 20 insertion variants"
+        },
+        {
+          "application_number": 215310,
+          "drug_name_brand": "Exkivity",
+          "drug_name_generic": "mobocertinib",
+          "indication": "EXKIVITY is a kinase inhibitor indicated for the treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 20 insertion mutations, as detected by an FDA-approved test, whose disease has progressed on or after platinum-based chemotherapy. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s).",
+          "raw_biomarkers": "EGFR exon 20 insertion mutations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/215310s003lbl.pdf",
+          "categorical_variants": "EGFR exon 20 insertion variants"
+        }
+      ],
+      "relevant_approvals_count": 3
+    }
+  },
+  {
+    "EGFR variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 201292,
+          "drug_name_brand": "Gilotrif",
+          "drug_name_generic": "afatinib",
+          "indication": "GILOTRIF is a kinase inhibitor indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have non-resistant epidermal growth factor receptor (EGFR) mutations as detected by an FDA-approved test (1.1) Limitations of Use: Safety and efficacy of GILOTRIF were not established in patients whose tumors have resistant EGFR mutations.",
+          "raw_biomarkers": "non-resistant EGFR mutations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/201292s017lbl.pdf",
+          "categorical_variants": "non-resistant EGFR variants"
+        },
+        {
+          "application_number": 761034,
+          "drug_name_brand": "Tecentriq",
+          "drug_name_generic": "atezolizumab",
+          "indication": "TECENTRIQ is a programmed death-ligand 1 (PD-L1) blocking antibody indicated for the treatment of adult patients with metastatic NSCLC who have disease progression during or following platinum-containing chemotherapy. Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for NSCLC harboring these aberrations prior to receiving TECENTRIQ.",
+          "raw_biomarkers": "EGFR or ALK genomic tumor aberrations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761034s053lbl.pdf",
+          "categorical_variants": "EGFR variants; ALK variants"
+        }
+      ],
+      "relevant_approvals_count": 2
+    }
+  },
+  {
+    "EZH2 variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 211723,
+          "drug_name_brand": "Tazverik",
+          "drug_name_generic": "tazemetostat",
+          "indication": "TAZVERIK is a methyltransferase inhibitor indicated for the treatment of adult patients with relapsed or refractory follicular lymphoma whose tumors are positive for an EZH2 mutation as detected by an FDA-approved test and who have received at least 2 prior systemic therapies. These indications are approved under accelerated approval based on overall response rate and duration of response. Continued approval for these indications may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+          "raw_biomarkers": "EZH2 mutation positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211723s004lbl.pdf",
+          "categorical_variants": "EZH2 variants"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "FGFR1 rearrangement": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 213736,
+          "drug_name_brand": "Pemazyre",
+          "drug_name_generic": "pemigatinib",
+          "indication": "PEMAZYRE is a kinase inhibitor indicated for the treatment of adults with relapsed or refractory myeloid/lymphoid neoplasms (MLNs) with FGFR1 rearrangement.",
+          "raw_biomarkers": "FGFR1 rearrangement",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/213736s002lbl.pdf",
+          "categorical_variants": "FGFR1 rearrangement"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "FGFR2 rearrangements": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 214801,
+          "drug_name_brand": "Lytgobi",
+          "drug_name_generic": "futibatinib",
+          "indication": "LYTGOBI is a kinase inhibitor indicated for the treatment of adult patients with previously treated, unresectable, locally advanced or metastatic intrahepatic cholangiocarcinoma harboring fibroblast growth factor receptor 2 (FGFR2) gene fusions or other rearrangements. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+          "raw_biomarkers": "FGFR2 gene fusions or other rearrangements",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/214801s002lbl.pdf",
+          "categorical_variants": "FGFR2::v; FGFR2 rearrangements"
+        },
+        {
+          "application_number": 214622,
+          "drug_name_brand": "Truseltiq",
+          "drug_name_generic": "infigratinib",
+          "indication": "TRUSELTIQ is a kinase inhibitor indicated for the treatment of adults with previously treated, unresectable locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or other rearrangement as detected by an FDA-approved test. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s).",
+          "raw_biomarkers": "FGFR2 fusion or other rearrangement",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/214622s000lbl.pdf",
+          "categorical_variants": "FGFR2::v; FGFR2 rearrangements"
+        },
+        {
+          "application_number": 213736,
+          "drug_name_brand": "Pemazyre",
+          "drug_name_generic": "pemigatinib",
+          "indication": "PEMAZYRE is a kinase inhibitor indicated for the treatment of adults with previously treated, unresectable locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or other rearrangement as detected by an FDA-approved test. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+          "raw_biomarkers": "FGFR2 fusion or other rearrangement",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/213736s002lbl.pdf",
+          "categorical_variants": "FGFR2::v; FGFR2 rearrangements"
+        }
+      ],
+      "relevant_approvals_count": 3
+    }
+  },
+  {
+    "FGFR2::v": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": true,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 214801,
+          "drug_name_brand": "Lytgobi",
+          "drug_name_generic": "futibatinib",
+          "indication": "LYTGOBI is a kinase inhibitor indicated for the treatment of adult patients with previously treated, unresectable, locally advanced or metastatic intrahepatic cholangiocarcinoma harboring fibroblast growth factor receptor 2 (FGFR2) gene fusions or other rearrangements. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+          "raw_biomarkers": "FGFR2 gene fusions or other rearrangements",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/214801s002lbl.pdf",
+          "categorical_variants": "FGFR2::v; FGFR2 rearrangements"
+        },
+        {
+          "application_number": 214622,
+          "drug_name_brand": "Truseltiq",
+          "drug_name_generic": "infigratinib",
+          "indication": "TRUSELTIQ is a kinase inhibitor indicated for the treatment of adults with previously treated, unresectable locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or other rearrangement as detected by an FDA-approved test. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s).",
+          "raw_biomarkers": "FGFR2 fusion or other rearrangement",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/214622s000lbl.pdf",
+          "categorical_variants": "FGFR2::v; FGFR2 rearrangements"
+        },
+        {
+          "application_number": 213736,
+          "drug_name_brand": "Pemazyre",
+          "drug_name_generic": "pemigatinib",
+          "indication": "PEMAZYRE is a kinase inhibitor indicated for the treatment of adults with previously treated, unresectable locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or other rearrangement as detected by an FDA-approved test. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+          "raw_biomarkers": "FGFR2 fusion or other rearrangement",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/213736s002lbl.pdf",
+          "categorical_variants": "FGFR2::v; FGFR2 rearrangements"
+        }
+      ],
+      "relevant_approvals_count": 3
+    }
+  },
+  {
+    "FLT3 variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 211349,
+          "drug_name_brand": "Xospata",
+          "drug_name_generic": "gilteritinib",
+          "indication": "XOSPATA is a kinase inhibitor indicated for the treatment of adult patients who have relapsed or refractory acute myeloid leukemia (AML) with a FLT3 mutation as detected by an FDA-approved test.",
+          "raw_biomarkers": "FLT3 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/211349s003lbl.pdf",
+          "categorical_variants": "FLT3 variants"
+        },
+        {
+          "application_number": 207997,
+          "drug_name_brand": "Rydapt",
+          "drug_name_generic": "midostaurin",
+          "indication": "RYDAPT is a kinase inhibitor indicated for the treatment of adult patients with newly diagnosed acute myeloid leukemia (AML) that is FLT3 mutation- positive as detected by an FDA-approved test, in combination with standard cytarabine and daunorubicin induction and cytarabine consolidation. RYDAPT is not indicated as a single-agent induction therapy for the treatment of patients with AML.",
+          "raw_biomarkers": "FLT3 mutation-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/207997s010lbl.pdf",
+          "categorical_variants": "FLT3 variants"
+        }
+      ],
+      "relevant_approvals_count": 2
+    }
+  },
+  {
+    "HER2 (ERBB2) variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 761139,
+          "drug_name_brand": "Enhertu",
+          "drug_name_generic": "trastuzumab deruxtecan",
+          "indication": "ENHERTU is a HER2-directed antibody and topoisomerase inhibitor conjugate indicated for the treatment of adult patients with unresectable or metastatic non-small cell lung cancer (NSCLC) whose tumors have activating HER2 (ERBB2) mutations, as detected by an FDA-approved test, and who have received a prior systemic therapy. These indications are approved under accelerated approval based on objective response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial.",
+          "raw_biomarkers": "HER2 (ERBB2) mutations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761139s028lbl.pdf",
+          "categorical_variants": "HER2 (ERBB2) variants"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "HRR gene variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": false,
+        "gene_set": true,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 208558,
+          "drug_name_brand": "Lynparza",
+          "drug_name_generic": "olaparib",
+          "indication": "Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the treatment of adult patients with deleterious or suspected deleterious germline or somatic homologous recombination repair (HRR) gene-mutated metastatic castration-resistant prostate cancer (mCRPC) who have progressed following prior treatment with enzalutamide or abiraterone. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza.",
+          "raw_biomarkers": "deleterious or suspected deleterious germline or somatic homologous recombination repair (HRR) gene-mutated",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/208558s028lbl.pdf",
+          "categorical_variants": "HRR gene variants"
+        },
+        {
+          "application_number": 211651,
+          "drug_name_brand": "Talzenna",
+          "drug_name_generic": "talazoparib",
+          "indication": "TALZENNA is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated in combination with enzalutamide for the treatment of adult patients with HRR gene-mutated metastatic castration-resistant prostate cancer (mCRPC).",
+          "raw_biomarkers": "HRR gene-mutated",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/211651s012lbl.pdf",
+          "categorical_variants": "HRR gene variants"
+        }
+      ],
+      "relevant_approvals_count": 2
+    }
+  },
+  {
+    "IDH1 variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 211192,
+          "drug_name_brand": "Tibsovo",
+          "drug_name_generic": "ivosidenib",
+          "indication": "TIBSOVO is an isocitrate dehydrogenase-1 (IDH1) inhibitor indicated for patients with a susceptible IDH1 mutation as detected by an FDA-approved test with in combination with azacitidine or as monotherapy for the treatment of newly diagnosed AML in adults 75 years or older, or who have comorbidities that preclude use of intensive induction chemotherapy.",
+          "raw_biomarkers": "susceptible IDH1 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211192s011lbl.pdf",
+          "categorical_variants": "susceptible IDH1 variants"
+        },
+        {
+          "application_number": 211192,
+          "drug_name_brand": "Tibsovo",
+          "drug_name_generic": "ivosidenib",
+          "indication": "TIBSOVO is an isocitrate dehydrogenase-1 (IDH1) inhibitor indicated for patients with a susceptible IDH1 mutation as detected by an FDA-approved test with for the treatment of adult patients with relapsed or refractory AML.",
+          "raw_biomarkers": "susceptible IDH1 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211192s011lbl.pdf",
+          "categorical_variants": "susceptible IDH1 variants"
+        },
+        {
+          "application_number": 211192,
+          "drug_name_brand": "Tibsovo",
+          "drug_name_generic": "ivosidenib",
+          "indication": "TIBSOVO is an isocitrate dehydrogenase-1 (IDH1) inhibitor indicated for patients with a susceptible IDH1 mutation as detected by an FDA-approved test with for the treatment of adult patients with relapsed or refractory myelodysplastic syndromes.",
+          "raw_biomarkers": "susceptible IDH1 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211192s011lbl.pdf",
+          "categorical_variants": "susceptible IDH1 variants"
+        },
+        {
+          "application_number": 211192,
+          "drug_name_brand": "Tibsovo",
+          "drug_name_generic": "ivosidenib",
+          "indication": "TIBSOVO is an isocitrate dehydrogenase-1 (IDH1) inhibitor indicated for patients with a susceptible IDH1 mutation as detected by an FDA-approved test with for the treatment of adult patients with locally advanced or metastatic cholangiocarcinoma who have been previously treated.",
+          "raw_biomarkers": "susceptible IDH1 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211192s011lbl.pdf",
+          "categorical_variants": "susceptible IDH1 variants"
+        },
+        {
+          "application_number": 210861,
+          "drug_name_brand": "Vitrakvi",
+          "drug_name_generic": "larotrectinib",
+          "indication": "VITRAKVI is a kinase inhibitor indicated for the treatment of adult and pediatric patients with solid tumors that: have a neurotrophic receptor tyrosine kinase (NTRK) gene fusion without a known acquired resistance mutation, are metastatic or where surgical resection is likely to result in severe morbidity, and have no satisfactory alternative treatments or that have progressed following treatment. Select patients for therapy based on an FDA-approved test.",
+          "raw_biomarkers": "NTRK gene fusion",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/210861s012lbl.pdf",
+          "categorical_variants": "susceptible IDH1 variants"
+        },
+        {
+          "application_number": 215814,
+          "drug_name_brand": "Rezlidhia",
+          "drug_name_generic": "olutasidenib",
+          "indication": "REZLIDHIA is an isocitrate dehydrogenase-1 (IDH1) inhibitor indicated for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with a susceptible IDH1 mutation as detected by an FDA-approved test.",
+          "raw_biomarkers": "susceptible IDH1 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215814s000lbl.pdf",
+          "categorical_variants": "susceptible IDH1 variants"
+        },
+        {
+          "application_number": 218784,
+          "drug_name_brand": "Voranigo",
+          "drug_name_generic": "vorasidenib",
+          "indication": "VORANIGO is an isocitrate dehydrogenase-1 (IDH1) and isocitrate dehydrogenase-2 (IDH2) inhibitor indicated for the treatment of adult and pediatric patients 12 years and older with Grade 2 astrocytoma or oligodendroglioma with a susceptible IDH1 or IDH2 mutation following surgery including biopsy, sub-total resection, or gross total resection.",
+          "raw_biomarkers": "IDH1 or IDH2 mutations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/218784s000lbl.pdf",
+          "categorical_variants": "IDH1 variants; IDH2 variants"
+        }
+      ],
+      "relevant_approvals_count": 7
+    }
+  },
+  {
+    "IDH2 variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 209606,
+          "drug_name_brand": "Idhifa",
+          "drug_name_generic": "enasidenib",
+          "indication": "IDHIFA is an isocitrate dehydrogenase-2 inhibitor indicated for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with an isocitrate dehydrogenase-2 (IDH2) mutation as detected by an FDA-approved test.",
+          "raw_biomarkers": "IDH2 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/209606s006lbl.pdf",
+          "categorical_variants": "IDH2 variants"
+        },
+        {
+          "application_number": 218784,
+          "drug_name_brand": "Voranigo",
+          "drug_name_generic": "vorasidenib",
+          "indication": "VORANIGO is an isocitrate dehydrogenase-1 (IDH1) and isocitrate dehydrogenase-2 (IDH2) inhibitor indicated for the treatment of adult and pediatric patients 12 years and older with Grade 2 astrocytoma or oligodendroglioma with a susceptible IDH1 or IDH2 mutation following surgery including biopsy, sub-total resection, or gross total resection.",
+          "raw_biomarkers": "IDH1 or IDH2 mutations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/218784s000lbl.pdf",
+          "categorical_variants": "IDH1 variants; IDH2 variants"
+        }
+      ],
+      "relevant_approvals_count": 2
+    }
+  },
+  {
+    "KMT2A translocations": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 218944,
+          "drug_name_brand": "Revuforj",
+          "drug_name_generic": "revumenib",
+          "indication": "REVUFORJ is a menin inhibitor indicated for the treatment of relapsed or refractory acute leukemia with a lysine methyltransferase 2A gene (KMT2A) translocation in adult and pediatric patients 1 year and older.",
+          "raw_biomarkers": "KMT2A translocation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/218944s000lbl.pdf",
+          "categorical_variants": "KMT2A translocations"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "KRAS variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 219616,
+          "drug_name_brand": "Avmapki Fakzynja co-pack",
+          "drug_name_generic": "avutometinib; defactinib",
+          "indication": "AVMAPKI FAKZYNJA CO-PACK, a combination of avutometinib and defactinib, each kinase inhibitors, is indicated for the treatment of adult patients with KRAS-mutated recurrent low-grade serous ovarian cancer (LGSOC) who have received prior systemic therapy.",
+          "raw_biomarkers": "KRAS-mutated",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219616s000lbl.pdf",
+          "categorical_variants": "KRAS variants"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "MET exon 14 skipping variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": true,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 213591,
+          "drug_name_brand": "Tabrecta",
+          "drug_name_generic": "capmatinib",
+          "indication": "TABRECTA is a kinase inhibitor indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have a mutation that leads to mesenchymal-epithelial transition (MET) exon 14 skipping as detected by an FDA-approved test.",
+          "raw_biomarkers": "MET exon 14 skipping",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/213591s011lbl.pdf",
+          "categorical_variants": "MET exon 14 skipping variants"
+        },
+        {
+          "application_number": 214096,
+          "drug_name_brand": "Tepmetko",
+          "drug_name_generic": "tepotinib",
+          "indication": "TEPMETKO is a kinase inhibitor indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) harboring mesenchymal-epithelial transition (MET) exon 14 skipping alterations.",
+          "raw_biomarkers": "MET exon 14 skipping alterations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/214096s003lbl.pdf",
+          "categorical_variants": "MET exon 14 skipping variants"
+        }
+      ],
+      "relevant_approvals_count": 2
+    }
+  },
+  {
+    "PDGFRA exon 18 variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": true,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 212608,
+          "drug_name_brand": "Ayvakit",
+          "drug_name_generic": "avapritinib",
+          "indication": "AYVAKIT is a kinase inhibitor indicated for the treatment of adults with unresectable or metastatic GIST harboring a platelet-derived growth factor receptor alpha (PDGFRA) exon 18 mutation, including PDGFRA D842V mutations.",
+          "raw_biomarkers": "PDGFRA exon 18 mutation, including PDGFRA D842V",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/212608s013lbl.pdf",
+          "categorical_variants": "PDGFRA exon 18 variants"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "PDGFRA rearrangement": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 21588,
+          "drug_name_brand": "Gleevec",
+          "drug_name_generic": "imatinib",
+          "indication": "Gleevec is a kinase inhibitor indicated for the treatment of adult patients with myelodysplastic/myeloproliferative diseases (MDS/MPD) associated with platelet-derived growth factor receptor (PDGFR) gene re-arrangements.",
+          "raw_biomarkers": "platelet-derived growth factor receptor (PDGFR) gene re-arrangements",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/021588s062lbl.pdf",
+          "categorical_variants": "PDGFRA rearrangement; PDGFRB rearrangement"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "PDGFRB rearrangement": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 21588,
+          "drug_name_brand": "Gleevec",
+          "drug_name_generic": "imatinib",
+          "indication": "Gleevec is a kinase inhibitor indicated for the treatment of adult patients with myelodysplastic/myeloproliferative diseases (MDS/MPD) associated with platelet-derived growth factor receptor (PDGFR) gene re-arrangements.",
+          "raw_biomarkers": "platelet-derived growth factor receptor (PDGFR) gene re-arrangements",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/021588s062lbl.pdf",
+          "categorical_variants": "PDGFRA rearrangement; PDGFRB rearrangement"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "PIK3CA variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 212526,
+          "drug_name_brand": "Piqray",
+          "drug_name_generic": "alpelisib",
+          "indication": "PIQRAY is a kinase inhibitor indicated in combination with fulvestrant for the treatment of adults with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, PIK3CA-mutated, advanced or metastatic breast cancer as detected by an FDA-approved test following progression on or after an endocrine-based regimen.",
+          "raw_biomarkers": "HR+, HER2-negative, PIK3CA-mutated",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/212526s009lbl.pdf",
+          "categorical_variants": "PIK3CA variants"
+        },
+        {
+          "application_number": 218197,
+          "drug_name_brand": "Truqap",
+          "drug_name_generic": "capivasertib",
+          "indication": "TRUQAP is a kinase inhibitor indicated, in combination with fulvestrant for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer with one or more PIK3CA/AKT1/PTEN-alterations as detected by an FDA-approved test following progression on at least one endocrine-based regimen in the metastatic setting or recurrence on or within 12 months of completing adjuvant therapy.",
+          "raw_biomarkers": "HR+, HER2-negative with one or more PIK3CA/AKT1/PTEN-alterations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/218197s000lbl.pdf",
+          "categorical_variants": "PIK3CA variants; AKT1 variants; PTEN variants"
+        },
+        {
+          "application_number": 219249,
+          "drug_name_brand": "Itovebi",
+          "drug_name_generic": "inavolisib",
+          "indication": "ITOVEBI is a kinase inhibitor indicated in combination with palbociclib and fulvestrant for the treatment of adults with endocrine-resistant, PIK3CA-mutated, hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer, as detected by an FDA-approved test, following recurrence on or after completing adjuvant endocrine therapy.",
+          "raw_biomarkers": "PIK3CA-mutated, hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/219249s000lbl.pdf",
+          "categorical_variants": "PIK3CA variants"
+        }
+      ],
+      "relevant_approvals_count": 3
+    }
+  },
+  {
+    "PTEN variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 218197,
+          "drug_name_brand": "Truqap",
+          "drug_name_generic": "capivasertib",
+          "indication": "TRUQAP is a kinase inhibitor indicated, in combination with fulvestrant for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer with one or more PIK3CA/AKT1/PTEN-alterations as detected by an FDA-approved test following progression on at least one endocrine-based regimen in the metastatic setting or recurrence on or within 12 months of completing adjuvant therapy.",
+          "raw_biomarkers": "HR+, HER2-negative with one or more PIK3CA/AKT1/PTEN-alterations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/218197s000lbl.pdf",
+          "categorical_variants": "PIK3CA variants; AKT1 variants; PTEN variants"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "RET variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 213246,
+          "drug_name_brand": "Retevmo",
+          "drug_name_generic": "selpercatinib",
+          "indication": "RETEVMO is a kinase inhibitor indicated for the treatment of adult and pediatric patients 2 years of age and older with advanced or metastatic medullary thyroid cancer (MTC) with a RET mutation, as detected by an FDA-approved test, who require systemic therapy.",
+          "raw_biomarkers": "RET mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/213246s011s013lbl.pdf",
+          "categorical_variants": "RET variants"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "TSC1 variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 22334,
+          "drug_name_brand": "Afinitor",
+          "drug_name_generic": "everolimus",
+          "indication": "AFINITOR is a kinase inhibitor indicated for the treatment of adults with renal angiomyolipoma and tuberous sclerosis complex (TSC), not requiring immediate surgery.",
+          "raw_biomarkers": "TSC1/2",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/203985s023,022334s051lbl.pdf",
+          "categorical_variants": "TSC1 variants; TSC2 variants"
+        },
+        {
+          "application_number": 22334,
+          "drug_name_brand": "Afinitor",
+          "drug_name_generic": "everolimus",
+          "indication": "AFINITOR and AFINITOR DISPERZ are kinase inhibitors indicated for the treatment of adult and pediatric patients aged 1 year and older with TSC who have subependymal giant cell astrocytoma (SEGA) that requires therapeutic intervention but cannot be curatively resected.",
+          "raw_biomarkers": "TSC1/2",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/203985s023,022334s051lbl.pdf",
+          "categorical_variants": "TSC1 variants; TSC2 variants"
+        }
+      ],
+      "relevant_approvals_count": 2
+    }
+  },
+  {
+    "TSC2 variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 22334,
+          "drug_name_brand": "Afinitor",
+          "drug_name_generic": "everolimus",
+          "indication": "AFINITOR is a kinase inhibitor indicated for the treatment of adults with renal angiomyolipoma and tuberous sclerosis complex (TSC), not requiring immediate surgery.",
+          "raw_biomarkers": "TSC1/2",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/203985s023,022334s051lbl.pdf",
+          "categorical_variants": "TSC1 variants; TSC2 variants"
+        },
+        {
+          "application_number": 22334,
+          "drug_name_brand": "Afinitor",
+          "drug_name_generic": "everolimus",
+          "indication": "AFINITOR and AFINITOR DISPERZ are kinase inhibitors indicated for the treatment of adult and pediatric patients aged 1 year and older with TSC who have subependymal giant cell astrocytoma (SEGA) that requires therapeutic intervention but cannot be curatively resected.",
+          "raw_biomarkers": "TSC1/2",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/203985s023,022334s051lbl.pdf",
+          "categorical_variants": "TSC1 variants; TSC2 variants"
+        }
+      ],
+      "relevant_approvals_count": 2
+    }
+  },
+  {
+    "deleterious BRCA1 variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": true,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 216793,
+          "drug_name_brand": "Akeega",
+          "drug_name_generic": "abiraterone acetate and niraparib",
+          "indication": "AKEEGA is a combination of niraparib, a poly (ADP-ribose) polymerase (PARP) inhibitor, and abiraterone acetate, a CYP17 inhibitor indicated with prednisone for the treatment of adult patients with deleterious or suspected deleterious BRCA-mutated (BRCAm) metastatic castration-resistant prostate cancer (mCRPC). Select patients for therapy based on an FDA-approved test for AKEEGA.",
+          "raw_biomarkers": "deleterious or suspected deleterious BRCA-mutated (BRCAm)",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216793s000lbl.pdf",
+          "categorical_variants": "(suspected) deleterious BRCA1 variants; (suspected) deleterious BRCA2 variants"
+        },
+        {
+          "application_number": 209115,
+          "drug_name_brand": "Rubraca",
+          "drug_name_generic": "rucaparib",
+          "indication": "RUBRACA is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the maintenance treatment of adult patients with a deleterious BRCA mutation (germline and/or somatic)- associated recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in a complete or partial response to platinum-based chemotherapy.",
+          "raw_biomarkers": "deleterious BRCA mutation (germline and/or somatic)",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/209115s013lbl.pdf",
+          "categorical_variants": "deleterious BRCA1 variants; deleterious BRCA2 variants"
+        },
+        {
+          "application_number": 209115,
+          "drug_name_brand": "Rubraca",
+          "drug_name_generic": "rucaparib",
+          "indication": "RUBRACA is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the treatment of adult patients with a deleterious BRCA mutation (germline and/or somatic)-associated metastatic castration-resistant prostate cancer (mCRPC) who have been treated with androgen receptor-directed therapy and a taxane-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for RUBRACA. This indication is approved under accelerated approval based on objective response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.",
+          "raw_biomarkers": "deleterious BRCA mutation (germline and/or somatic)",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/209115s013lbl.pdf",
+          "categorical_variants": "deleterious BRCA1 variants; deleterious BRCA2 variants"
+        }
+      ],
+      "relevant_approvals_count": 3
+    }
+  },
+  {
+    "deleterious BRCA2 variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": true,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 216793,
+          "drug_name_brand": "Akeega",
+          "drug_name_generic": "abiraterone acetate and niraparib",
+          "indication": "AKEEGA is a combination of niraparib, a poly (ADP-ribose) polymerase (PARP) inhibitor, and abiraterone acetate, a CYP17 inhibitor indicated with prednisone for the treatment of adult patients with deleterious or suspected deleterious BRCA-mutated (BRCAm) metastatic castration-resistant prostate cancer (mCRPC). Select patients for therapy based on an FDA-approved test for AKEEGA.",
+          "raw_biomarkers": "deleterious or suspected deleterious BRCA-mutated (BRCAm)",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216793s000lbl.pdf",
+          "categorical_variants": "(suspected) deleterious BRCA1 variants; (suspected) deleterious BRCA2 variants"
+        },
+        {
+          "application_number": 209115,
+          "drug_name_brand": "Rubraca",
+          "drug_name_generic": "rucaparib",
+          "indication": "RUBRACA is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the maintenance treatment of adult patients with a deleterious BRCA mutation (germline and/or somatic)- associated recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in a complete or partial response to platinum-based chemotherapy.",
+          "raw_biomarkers": "deleterious BRCA mutation (germline and/or somatic)",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/209115s013lbl.pdf",
+          "categorical_variants": "deleterious BRCA1 variants; deleterious BRCA2 variants"
+        },
+        {
+          "application_number": 209115,
+          "drug_name_brand": "Rubraca",
+          "drug_name_generic": "rucaparib",
+          "indication": "RUBRACA is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated for the treatment of adult patients with a deleterious BRCA mutation (germline and/or somatic)-associated metastatic castration-resistant prostate cancer (mCRPC) who have been treated with androgen receptor-directed therapy and a taxane-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for RUBRACA. This indication is approved under accelerated approval based on objective response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.",
+          "raw_biomarkers": "deleterious BRCA mutation (germline and/or somatic)",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/209115s013lbl.pdf",
+          "categorical_variants": "deleterious BRCA1 variants; deleterious BRCA2 variants"
+        }
+      ],
+      "relevant_approvals_count": 3
+    }
+  },
+  {
+    "non-resistant EGFR variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": true,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 201292,
+          "drug_name_brand": "Gilotrif",
+          "drug_name_generic": "afatinib",
+          "indication": "GILOTRIF is a kinase inhibitor indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have non-resistant epidermal growth factor receptor (EGFR) mutations as detected by an FDA-approved test (1.1) Limitations of Use: Safety and efficacy of GILOTRIF were not established in patients whose tumors have resistant EGFR mutations.",
+          "raw_biomarkers": "non-resistant EGFR mutations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/201292s017lbl.pdf",
+          "categorical_variants": "non-resistant EGFR variants"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "susceptible FGFR3 variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": true,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 212018,
+          "drug_name_brand": "Balversa",
+          "drug_name_generic": "erdafitinib",
+          "indication": "BALVERSA is a kinase inhibitor indicated for the treatment of adult patients with locally advanced or metastatic urothelial carcinoma (mUC) with susceptible FGFR3 genetic alterations whose disease has progressed on or after at least one line of prior systemic therapy. Select patients for therapy based on an FDA-approved companion diagnostic for BALVERSA. BALVERSA is not recommended for the treatment of patients who are eligible for and have not received prior PD-1 or PD-L1 inhibitor therapy.",
+          "raw_biomarkers": "susceptible FGFR3 genetic alterations",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/212018s007s008s009lbl.pdf",
+          "categorical_variants": "susceptible FGFR3 variants"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "susceptible IDH1 variants": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": true,
+        "exon": false,
+        "fusion_partner": false,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": false
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 211192,
+          "drug_name_brand": "Tibsovo",
+          "drug_name_generic": "ivosidenib",
+          "indication": "TIBSOVO is an isocitrate dehydrogenase-1 (IDH1) inhibitor indicated for patients with a susceptible IDH1 mutation as detected by an FDA-approved test with in combination with azacitidine or as monotherapy for the treatment of newly diagnosed AML in adults 75 years or older, or who have comorbidities that preclude use of intensive induction chemotherapy.",
+          "raw_biomarkers": "susceptible IDH1 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211192s011lbl.pdf",
+          "categorical_variants": "susceptible IDH1 variants"
+        },
+        {
+          "application_number": 211192,
+          "drug_name_brand": "Tibsovo",
+          "drug_name_generic": "ivosidenib",
+          "indication": "TIBSOVO is an isocitrate dehydrogenase-1 (IDH1) inhibitor indicated for patients with a susceptible IDH1 mutation as detected by an FDA-approved test with for the treatment of adult patients with relapsed or refractory AML.",
+          "raw_biomarkers": "susceptible IDH1 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211192s011lbl.pdf",
+          "categorical_variants": "susceptible IDH1 variants"
+        },
+        {
+          "application_number": 211192,
+          "drug_name_brand": "Tibsovo",
+          "drug_name_generic": "ivosidenib",
+          "indication": "TIBSOVO is an isocitrate dehydrogenase-1 (IDH1) inhibitor indicated for patients with a susceptible IDH1 mutation as detected by an FDA-approved test with for the treatment of adult patients with relapsed or refractory myelodysplastic syndromes.",
+          "raw_biomarkers": "susceptible IDH1 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211192s011lbl.pdf",
+          "categorical_variants": "susceptible IDH1 variants"
+        },
+        {
+          "application_number": 211192,
+          "drug_name_brand": "Tibsovo",
+          "drug_name_generic": "ivosidenib",
+          "indication": "TIBSOVO is an isocitrate dehydrogenase-1 (IDH1) inhibitor indicated for patients with a susceptible IDH1 mutation as detected by an FDA-approved test with for the treatment of adult patients with locally advanced or metastatic cholangiocarcinoma who have been previously treated.",
+          "raw_biomarkers": "susceptible IDH1 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211192s011lbl.pdf",
+          "categorical_variants": "susceptible IDH1 variants"
+        },
+        {
+          "application_number": 210861,
+          "drug_name_brand": "Vitrakvi",
+          "drug_name_generic": "larotrectinib",
+          "indication": "VITRAKVI is a kinase inhibitor indicated for the treatment of adult and pediatric patients with solid tumors that: have a neurotrophic receptor tyrosine kinase (NTRK) gene fusion without a known acquired resistance mutation, are metastatic or where surgical resection is likely to result in severe morbidity, and have no satisfactory alternative treatments or that have progressed following treatment. Select patients for therapy based on an FDA-approved test.",
+          "raw_biomarkers": "NTRK gene fusion",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/210861s012lbl.pdf",
+          "categorical_variants": "susceptible IDH1 variants"
+        },
+        {
+          "application_number": 215814,
+          "drug_name_brand": "Rezlidhia",
+          "drug_name_generic": "olutasidenib",
+          "indication": "REZLIDHIA is an isocitrate dehydrogenase-1 (IDH1) inhibitor indicated for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with a susceptible IDH1 mutation as detected by an FDA-approved test.",
+          "raw_biomarkers": "susceptible IDH1 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215814s000lbl.pdf",
+          "categorical_variants": "susceptible IDH1 variants"
+        }
+      ],
+      "relevant_approvals_count": 6
+    }
+  },
+  {
+    "v::ALK": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": true,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 208434,
+          "drug_name_brand": "Alecensa",
+          "drug_name_generic": "alectinib",
+          "indication": "ALECENSA is a kinase inhibitor indicated for the adjuvant treatment in adult patients following tumor resection of anaplastic lymphoma kinase (ALK)-positive non-small cell lung cancer (NSCLC) (tumors >= 4 cm or node positive) as detected by an FDA-approved test.",
+          "raw_biomarkers": "ALK-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/208434s015lbl.pdf",
+          "categorical_variants": "v::ALK"
+        },
+        {
+          "application_number": 208434,
+          "drug_name_brand": "Alecensa",
+          "drug_name_generic": "alectinib",
+          "indication": "ALECENSA is a kinase inhibitor indicated for the treatment of adult patients with ALK-positive metastatic NSCLC as detected by an FDA-approved test.",
+          "raw_biomarkers": "ALK-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/208434s015lbl.pdf",
+          "categorical_variants": "v::ALK"
+        },
+        {
+          "application_number": 208772,
+          "drug_name_brand": "Alunbrig",
+          "drug_name_generic": "brigatinib",
+          "indication": "ALUNBRIG is a kinase inhibitor indicated for the treatment of adult patients with anaplastic lymphoma kinase (ALK)-positive metastatic non-small cell lung cancer (NSCLC) as detected by an FDA-approved test.",
+          "raw_biomarkers": "ALK-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/208772s013lbl.pdf",
+          "categorical_variants": "v::ALK"
+        },
+        {
+          "application_number": 211225,
+          "drug_name_brand": "Zykadia",
+          "drug_name_generic": "ceritinib",
+          "indication": "ZYKADIA is a kinase inhibitor indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK)-positive as detected by an FDA-approved test.",
+          "raw_biomarkers": "ALK-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/211225s004lbl.pdf",
+          "categorical_variants": "v::ALK"
+        },
+        {
+          "application_number": 202570,
+          "drug_name_brand": "Xalkori",
+          "drug_name_generic": "crizotinib",
+          "indication": "XALKORI is a kinase inhibitor indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK) or ROS1-positive as detected by an FDA-approved test.",
+          "raw_biomarkers": "ALK or ROS1-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/202570s036lbl.pdf",
+          "categorical_variants": "v::ALK"
+        },
+        {
+          "application_number": 202570,
+          "drug_name_brand": "Xalkori",
+          "drug_name_generic": "crizotinib",
+          "indication": "XALKORI is a kinase inhibitor indicated for the treatment of pediatric patients 1 year of age and older and young adults with relapsed or refractory, systemic anaplastic large cell lymphoma (ALCL) that is ALK-positive. Limitations of Use: The safety and efficacy of XALKORI have not been established in older adults with relapsed or refractory, systemic ALK-positive ALCL.",
+          "raw_biomarkers": "ALK-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/202570s036lbl.pdf",
+          "categorical_variants": "v::ALK; v::ROS1"
+        },
+        {
+          "application_number": 202570,
+          "drug_name_brand": "Xalkori",
+          "drug_name_generic": "crizotinib",
+          "indication": "XALKORI is a kinase inhibitor indicated for the treatment of adult and pediatric patients 1 year of age and older with unresectable, recurrent, or refractory inflammatory myofibroblastic tumor (IMT) that is ALK-positive.",
+          "raw_biomarkers": "ALK-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/202570s036lbl.pdf",
+          "categorical_variants": "v::ALK; v::ROS1"
+        },
+        {
+          "application_number": 218171,
+          "drug_name_brand": "Ensacove",
+          "drug_name_generic": "ensartinib",
+          "indication": "ENSACOVE is a kinase inhibitor indicated for the treatment of adult patients with anaplastic lymphoma kinase (ALK)-positive locally advanced or metastatic non-small cell lung cancer (NSCLC) who have not previously received an ALK-inhibitor.",
+          "raw_biomarkers": "ALK-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/218171s000lbl.pdf",
+          "categorical_variants": "v::ALK"
+        }
+      ],
+      "relevant_approvals_count": 8
+    }
+  },
+  {
+    "v::BRAF": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": true,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 217700,
+          "drug_name_brand": "Ojemda",
+          "drug_name_generic": "tovorafenib",
+          "indication": "OJEMDA is a kinase inhibitor indicated for the treatment of patients 6 months of age and older with relapsed or refractory pediatric low-grade glioma (LGG) harboring a BRAF fusion or rearrangement, or BRAF V600 mutation.",
+          "raw_biomarkers": "BRAF fusion or rearrangement, or BRAF V600 mutation",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/217700s000lbl.pdf",
+          "categorical_variants": "BRAF V600; BRAF rearrangements; v::BRAF"
+        }
+      ],
+      "relevant_approvals_count": 1
+    }
+  },
+  {
+    "v::NRG1": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": true,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 761352,
+          "drug_name_brand": "Bizengri",
+          "drug_name_generic": "zenocutuzumab-zbco",
+          "indication": "BIZENGRI is a bispecific HER2- and HER3-directed antibody indicated for the treatment of adults with advanced, unresectable or metastatic non-small cell lung cancer (NSCLC) harboring a neuregulin 1 (NRG1) gene fusion with disease progression on or after prior systemic therapy. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+          "raw_biomarkers": "NGR1 gene fusion",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761352s001lbl.pdf",
+          "categorical_variants": "v::NRG1"
+        },
+        {
+          "application_number": 761352,
+          "drug_name_brand": "Bizengri",
+          "drug_name_generic": "zenocutuzumab-zbco",
+          "indication": "BIZENGRI is a bispecific HER2- and HER3-directed antibody indicated for the treatment of adults with advanced, unresectable or metastatic pancreatic adenocarcinoma harboring a neuregulin 1 (NRG1) gene fusion with disease progression on or after prior systemic therapy. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+          "raw_biomarkers": "NRG1 gene fusion",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761352s001lbl.pdf",
+          "categorical_variants": "v::NRG1"
+        }
+      ],
+      "relevant_approvals_count": 2
+    }
+  },
+  {
+    "v::NTRK1": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": true,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 212725,
+          "drug_name_brand": "Rozlytrek",
+          "drug_name_generic": "entrectinib",
+          "indication": "ROZLYTREK is a kinase inhibitor indicated for the treatment of adult and pediatric patients older than 1 month of age with solid tumors that: (i) have a neurotrophic tyrosine receptor kinase (NTRK) gene fusion, as detected by an FDA-approved test without a known acquired resistance mutation, (ii) are metastatic or where surgical resection is likely to result in severe morbidity, and (iii) have progressed following treatment or have no satisfactory alternative therapy. This indication is approved under accelerated approval based on tumor response rate and durability of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.",
+          "raw_biomarkers": "NTRK gene fusion",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/212725s011lbl.pdf",
+          "categorical_variants": "v::NTRK1; v::NTRK2; v::NTRK3"
+        },
+        {
+          "application_number": 210868,
+          "drug_name_brand": "Lorbrena",
+          "drug_name_generic": "lorlatinib",
+          "indication": "LORBRENA is a kinase inhibitor indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK)-positive as detected by an FDA-approved test.",
+          "raw_biomarkers": "ALK-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/210868s004lbl.pdf",
+          "categorical_variants": "v::NTRK1; v::NTRK2; v::NTRK3"
+        },
+        {
+          "application_number": 218213,
+          "drug_name_brand": "Augtyro",
+          "drug_name_generic": "repotrectinib",
+          "indication": "AUGTYRO is a kinase inhibitor indicated for the treatment of adult and pedatric patients 12 years of age and older with solid tumors that (i) have a neutrophic tyrosine receptor kinase (NTRK) gene fusion and (ii) are locally advanced or metastatic or where surgical resection is likely to result in severe morbility, and (iii) have progressed following treatment or have no satisfactory alternative therapy. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.",
+          "raw_biomarkers": "NTRK gene fusions",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/218213s001lbl.pdf",
+          "categorical_variants": "v::NTRK1; v::NTRK2; v::NTRK3"
+        }
+      ],
+      "relevant_approvals_count": 3
+    }
+  },
+  {
+    "v::NTRK2": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": true,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 212725,
+          "drug_name_brand": "Rozlytrek",
+          "drug_name_generic": "entrectinib",
+          "indication": "ROZLYTREK is a kinase inhibitor indicated for the treatment of adult and pediatric patients older than 1 month of age with solid tumors that: (i) have a neurotrophic tyrosine receptor kinase (NTRK) gene fusion, as detected by an FDA-approved test without a known acquired resistance mutation, (ii) are metastatic or where surgical resection is likely to result in severe morbidity, and (iii) have progressed following treatment or have no satisfactory alternative therapy. This indication is approved under accelerated approval based on tumor response rate and durability of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.",
+          "raw_biomarkers": "NTRK gene fusion",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/212725s011lbl.pdf",
+          "categorical_variants": "v::NTRK1; v::NTRK2; v::NTRK3"
+        },
+        {
+          "application_number": 210868,
+          "drug_name_brand": "Lorbrena",
+          "drug_name_generic": "lorlatinib",
+          "indication": "LORBRENA is a kinase inhibitor indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK)-positive as detected by an FDA-approved test.",
+          "raw_biomarkers": "ALK-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/210868s004lbl.pdf",
+          "categorical_variants": "v::NTRK1; v::NTRK2; v::NTRK3"
+        },
+        {
+          "application_number": 218213,
+          "drug_name_brand": "Augtyro",
+          "drug_name_generic": "repotrectinib",
+          "indication": "AUGTYRO is a kinase inhibitor indicated for the treatment of adult and pedatric patients 12 years of age and older with solid tumors that (i) have a neutrophic tyrosine receptor kinase (NTRK) gene fusion and (ii) are locally advanced or metastatic or where surgical resection is likely to result in severe morbility, and (iii) have progressed following treatment or have no satisfactory alternative therapy. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.",
+          "raw_biomarkers": "NTRK gene fusions",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/218213s001lbl.pdf",
+          "categorical_variants": "v::NTRK1; v::NTRK2; v::NTRK3"
+        }
+      ],
+      "relevant_approvals_count": 3
+    }
+  },
+  {
+    "v::NTRK3": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": true,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 212725,
+          "drug_name_brand": "Rozlytrek",
+          "drug_name_generic": "entrectinib",
+          "indication": "ROZLYTREK is a kinase inhibitor indicated for the treatment of adult and pediatric patients older than 1 month of age with solid tumors that: (i) have a neurotrophic tyrosine receptor kinase (NTRK) gene fusion, as detected by an FDA-approved test without a known acquired resistance mutation, (ii) are metastatic or where surgical resection is likely to result in severe morbidity, and (iii) have progressed following treatment or have no satisfactory alternative therapy. This indication is approved under accelerated approval based on tumor response rate and durability of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.",
+          "raw_biomarkers": "NTRK gene fusion",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/212725s011lbl.pdf",
+          "categorical_variants": "v::NTRK1; v::NTRK2; v::NTRK3"
+        },
+        {
+          "application_number": 210868,
+          "drug_name_brand": "Lorbrena",
+          "drug_name_generic": "lorlatinib",
+          "indication": "LORBRENA is a kinase inhibitor indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK)-positive as detected by an FDA-approved test.",
+          "raw_biomarkers": "ALK-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/210868s004lbl.pdf",
+          "categorical_variants": "v::NTRK1; v::NTRK2; v::NTRK3"
+        },
+        {
+          "application_number": 218213,
+          "drug_name_brand": "Augtyro",
+          "drug_name_generic": "repotrectinib",
+          "indication": "AUGTYRO is a kinase inhibitor indicated for the treatment of adult and pedatric patients 12 years of age and older with solid tumors that (i) have a neutrophic tyrosine receptor kinase (NTRK) gene fusion and (ii) are locally advanced or metastatic or where surgical resection is likely to result in severe morbility, and (iii) have progressed following treatment or have no satisfactory alternative therapy. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.",
+          "raw_biomarkers": "NTRK gene fusions",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/218213s001lbl.pdf",
+          "categorical_variants": "v::NTRK1; v::NTRK2; v::NTRK3"
+        }
+      ],
+      "relevant_approvals_count": 3
+    }
+  },
+  {
+    "v::RET": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": true,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 213721,
+          "drug_name_brand": "Gavreto",
+          "drug_name_generic": "pralsetinib",
+          "indication": "GAVRETO is a kinase inhibitor indicated for treatment of adult patients with metastatic rearranged during transfection (RET) fusion-positive non-small cell lung cancer as detected by an FDA approved test (NSCLC).",
+          "raw_biomarkers": "RET fusion-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/213721s015lbl.pdf",
+          "categorical_variants": "v::RET"
+        },
+        {
+          "application_number": 213721,
+          "drug_name_brand": "Gavreto",
+          "drug_name_generic": "pralsetinib",
+          "indication": "GAVRETO is a kinase inhibitor indicated for treatment of adult and pediatric patients 12 years of age and older with advanced or metastatic RET fusion-positive thyroid cancer who require systemic therapy and who are radioactive iodine-refractory (if radioactive iodine is appropriate). This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s).",
+          "raw_biomarkers": "RET fusion-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/213721s015lbl.pdf",
+          "categorical_variants": "v::RET"
+        },
+        {
+          "application_number": 213246,
+          "drug_name_brand": "Retevmo",
+          "drug_name_generic": "selpercatinib",
+          "indication": "RETEVMO is a kinase inhibitor indicated for the treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with a rearranged during transfection (RET) gene fusion, as detected by an FDA-approved test.",
+          "raw_biomarkers": "RET fusion",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/213246s011s013lbl.pdf",
+          "categorical_variants": "v::RET"
+        },
+        {
+          "application_number": 213246,
+          "drug_name_brand": "Retevmo",
+          "drug_name_generic": "selpercatinib",
+          "indication": "RETEVMO is a kinase inhibitor indicated for the treatment of adult and pediatric patients 2 years of age and older with advanced or metastatic thyroid cancer with a RET gene fusion, as detected by an FDA-approved test, who require systemic therapy and who are radioactive iodine-refractory (if radioactive iodine is appropriate).",
+          "raw_biomarkers": "RET gene fusion",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/213246s011s013lbl.pdf",
+          "categorical_variants": "v::RET"
+        },
+        {
+          "application_number": 213246,
+          "drug_name_brand": "Retevmo",
+          "drug_name_generic": "selpercatinib",
+          "indication": "RETEVMO is a kinase inhibitor indicated for the treatment of adult and pediatric patients 2 years of age and older with locally advanced or metastatic solid tumors with a RET gene fusion, as detected by an FDA-approved test, that have progressed on or following prior systemic treatment or who have no satisfactory alternative treatment options. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s).",
+          "raw_biomarkers": "RET gene fusion",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/213246s011s013lbl.pdf",
+          "categorical_variants": "v::RET"
+        }
+      ],
+      "relevant_approvals_count": 5
+    }
+  },
+  {
+    "v::ROS1": {
+      "categories": {
+        "allele_origin": false,
+        "amino_acid": false,
+        "clinical_annotation": false,
+        "exon": false,
+        "fusion_partner": true,
+        "gene": true,
+        "gene_set": false,
+        "pathogenicity": false,
+        "variant_type": true
+      },
+      "relevant_approvals": [
+        {
+          "application_number": 202570,
+          "drug_name_brand": "Xalkori",
+          "drug_name_generic": "crizotinib",
+          "indication": "XALKORI is a kinase inhibitor indicated for the treatment of pediatric patients 1 year of age and older and young adults with relapsed or refractory, systemic anaplastic large cell lymphoma (ALCL) that is ALK-positive. Limitations of Use: The safety and efficacy of XALKORI have not been established in older adults with relapsed or refractory, systemic ALK-positive ALCL.",
+          "raw_biomarkers": "ALK-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/202570s036lbl.pdf",
+          "categorical_variants": "v::ALK; v::ROS1"
+        },
+        {
+          "application_number": 202570,
+          "drug_name_brand": "Xalkori",
+          "drug_name_generic": "crizotinib",
+          "indication": "XALKORI is a kinase inhibitor indicated for the treatment of adult and pediatric patients 1 year of age and older with unresectable, recurrent, or refractory inflammatory myofibroblastic tumor (IMT) that is ALK-positive.",
+          "raw_biomarkers": "ALK-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/202570s036lbl.pdf",
+          "categorical_variants": "v::ALK; v::ROS1"
+        },
+        {
+          "application_number": 212725,
+          "drug_name_brand": "Rozlytrek",
+          "drug_name_generic": "entrectinib",
+          "indication": "ROZLYTREK is a kinase inhibitor indicated for the treatment of adult patients with ROS1-positive metastatic non-small cell lung cancer (NSCLC) as detected by an FDA-approved test.",
+          "raw_biomarkers": "ROS1-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/212725s011lbl.pdf",
+          "categorical_variants": "v::ROS1"
+        },
+        {
+          "application_number": 218213,
+          "drug_name_brand": "Augtyro",
+          "drug_name_generic": "repotrectinib",
+          "indication": "AUGTYRO is a kinase inhibitor indicated for the treatment of adult patients with locally advanced or metastatic ROS1-positive non-small cell lung cancer (NSCLC).",
+          "raw_biomarkers": "ROS1-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/218213s001lbl.pdf",
+          "categorical_variants": "v::ROS1"
+        },
+        {
+          "application_number": 219713,
+          "drug_name_brand": "Ibtrozi",
+          "drug_name_generic": "taletrectinib",
+          "indication": "IBTROZI is a kinase inhibitor indicated for the treatment of adult patients with locally advanced or metastatic ROS1-positive non-small cell lung cancer (NSCLC).",
+          "raw_biomarkers": "ROS1-positive",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219713s000lbl.pdf",
+          "categorical_variants": "v::ROS1"
+        }
+      ],
+      "relevant_approvals_count": 5
+    }
+  }
+]
