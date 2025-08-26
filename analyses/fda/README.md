@@ -6,7 +6,7 @@ This analysis currently sources data from the [Molecular Oncology Almanac](https
 2. [Annotate approvals for categorical variants](#annotate-approvals-for-categorical-variants)
 3. [Extract categorical variants](#extract-categorical-variants)
 4. [Annotate categorical variants for variant categories](#annotate-categorical-variants-for-variant-categories)
-5. [Create summary file](#create-a-summary-file)
+5. [Create summary file](#create-summary-file)
 6. [Create visualization](#create-visualization)
 
 From this data, I imagine a figure with categorical variant biomarkers along the rows, a comutation plot showing which axes the set defines specificity along (similiar to which constraint would be used), and then a horizontal bar chart of how many approvals relate to each biomarker.
