@@ -95,3 +95,19 @@ For example:
 ```
 
 ## Create visualization
+Two figures were generated with the Jupyter notebook [visualize_categories.ipynb](./visualize_categories.ipynb) to plot the observed categorical variants by categories that they are ambiguous across as a grid, with the number of US FDA approvals associated with the each row plotted as a horizontal bar plot to the side. [fda_categorical_variants.svg](./fda_categorical_variants.svg) includes xlabels to show the categories, while [fda_categorical_variants.hide_categories.svg](./fda_categorical_variants.hide_categories.svg) hides them.
+
+Note, there is an [open bug](https://github.com/vanallenlab/comut/issues/22) with the [comut package](https://github.com/vanallenlab/comut/) where side bar data will not load due to a change made with Pandas >= 2.0.0. [Line 1002](https://github.com/vanallenlab/comut/issues/22#issuecomment-2300073660) of `comut.py` should be changed from 
+```python
+missing_categories = paired_cats - side_cats
+```
+to
+```python
+missing_categories = list(paired_cats - side_cats)
+```
+This can be accessed from within your virtual environment like so:
+```
+(cat-vrs-call-to-action) breardon@pomegranate:2025-catvar-call-to-action$ python -c "import comut, pathlib; print(pathlib.Path(comut.__file__).parent)"
+/opt/miniconda3/envs/cat-vrs-call-to-action/lib/python3.12/site-packages/comut
+(cat-vrs-call-to-action) breardon@pomegranate:2025-catvar-call-to-action$ vim /opt/miniconda3/envs/cat-vrs-call-to-action/lib/python3.12/site-packages/comut/comut.py
+```
