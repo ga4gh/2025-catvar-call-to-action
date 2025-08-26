@@ -11,3 +11,6 @@ curl -O https://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/hgvs4variation.tx
 curl -O https://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/hgvs4variation.txt.gz.md5
 gunzip -dk hgvs4variation.txt.gz
 ```
+
+## Create visualization
+The Jupyter notebook [expressions-per-allele.ipynb](./expressions-per-allele.ipynb) was written to generate a histogram of total HGVS expressions (both nucleotide and protein) per Allele ID. The x-axis was adjusted to use log-spaced bins for interpretability. The output figure was produced as both a .png and .svg: [clinvar-expressions-per-AlleleID.png](./clinvar-expressions-per-AlleleID.png) and [clinvar-expressions-per-AlleleID.svg](./clinvar-expressions-per-AlleleID.svg), respectively.
