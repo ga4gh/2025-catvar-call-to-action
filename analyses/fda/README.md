@@ -9,8 +9,6 @@ This analysis currently sources data from the [Molecular Oncology Almanac](https
 5. [Create summary file](#create-summary-file)
 6. [Create visualization](#create-visualization)
 
-From this data, I imagine a figure with categorical variant biomarkers along the rows, a comutation plot showing which axes the set defines specificity along (similiar to which constraint would be used), and then a horizontal bar chart of how many approvals relate to each biomarker.
-
 ## Download and reformat data
 Regulatory approvals for oncology treatments from the [U.S. Food and Drug Administration](https://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications) involving a biomarker were downloaded from the [Molecular Oncology Almanac](https://dev.moalmanac.org), June 12th 2025 release. These approvals were formatted into a tab delimited file, [fda_indications.raw.tsv](./fda_indications.raw.tsv), containing one approval per line with the following columns:
 -  `application_number`: The source drug's US FDA application number.
