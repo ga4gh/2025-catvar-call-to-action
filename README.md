@@ -22,7 +22,7 @@ This repository uses Python 3.12. We recommend using a [virtual environment](htt
 
 Run the following from this repository's directory to create a virtual environment and install dependencies with Anaconda or Miniconda:
 ```bash
-conda create -y -n 2025-catvar-call-to-action python=3.12
+conda create -y -n 2025-catvar-call-to-action python=3.12 -c conda-forge
 conda activate 2025-catvar-call-to-action
 pip install -r requirements.txt
 ```

@@ -1,3 +1,8 @@
+# General
+*.DS_Store
+.vscode*
+*.ipynb_checkpoints*
+
 # ClinVar analysis
 analyses/clinvar/hgvs4variation.txt
 analyses/clinvar/hgvs4variation.txt.gz
