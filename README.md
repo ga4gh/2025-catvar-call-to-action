@@ -2,11 +2,12 @@
 
 **Note: This repository is under active development**. 
 
-This repository contains code for analyses pretaining to [A Categorical Variant Call to Action](https://docs.google.com/document/d/1IRo2JlgIPERZeT35wFAUuldWvhk7LRM7hvAhZ98hRro/edit?usp=sharing). Here, we intend to provide a broad background of the presence of categorical variants within genomic knowledge bases. 
+This repository contains code for analyses pertaining to [A Categorical Variant Call to Action](https://docs.google.com/document/d/1IRo2JlgIPERZeT35wFAUuldWvhk7LRM7hvAhZ98hRro/edit?usp=sharing). Here, we intend to provide a broad background of the presence of categorical variants within genomic knowledge bases. 
 
 Supporting analyses include:
-- [Multiple expressions per Allele ID in ClinVar](analyses/clinvar/)
-- [FDA oncology approvals being indicated for categories of genomic variants](analyses/fda/)
+- [Variant types in CIViC](./analyses/civic/)
+- [Multiple expressions per Allele ID in ClinVar](./analyses/clinvar/)
+- [FDA oncology approvals being indicated for categories of genomic variants](./analyses/fda/)
 
 ## Installation
 ### Download
