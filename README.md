@@ -7,6 +7,7 @@ This repository contains code for analyses pertaining to [A Categorical Variant 
 Supporting analyses include:
 - [Variant types in CIViC](./analyses/civic/)
 - [Multiple expressions per Allele ID in ClinVar](./analyses/clinvar/)
+- [Counts of _NTRK_ fusions curated by COSMIC](./analyses/cosmic/)
 - [FDA oncology approvals being indicated for categories of genomic variants](./analyses/fda/)
 
 ## Installation
