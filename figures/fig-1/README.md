@@ -1,4 +1,4 @@
-![Fig. 1](fig-1.png)
+![Fig. 1](fig-1.svg)
 
 Both specific and broadly defined sets of genomic alterations are inherently categorical. The following genomic alterations are used as an illustrative example of EGFR Exon 19 deletions:
 - [chr7:g.55174772_55174786del](https://grch38.genomenexus.org/variant/chr7:g.55174772_55174786del); NM_005228.5(EGFR):c.2235_2249del(p.E746_A750del)
