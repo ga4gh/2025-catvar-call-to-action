@@ -6,6 +6,7 @@ Both specific and broadly defined sets of genomic alterations are inherently cat
 - [chr7:g.55174775_55174789del](https://grch38.genomenexus.org/variant/chr7:g.55174775_55174789del); NM_005228.5(EGFR):c.2240_2254del(p.L747_T751del)
 - [chr7:g.55174777_55174791del](https://grch38.genomenexus.org/variant/chr7:g.55174775_55174789del); NM_005228.5(EGFR):c.2240_2254del(p.L747_T751del)
 
+***
 
 Here's a couple other versions of the figure I mocked up this morning to channel some ideas I had to improve clarity and explanatory value of the figure.
 
