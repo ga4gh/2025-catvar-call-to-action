@@ -1,3 +1,3 @@
-![Fig. 3](fig-3.svg)
+![Fig. 4](fig-4.svg)
 
 Generated with Lucidchart.
