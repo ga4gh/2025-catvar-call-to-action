@@ -1,8 +1,6 @@
 # A categorical variation call to action
 
-**Note: This repository is under active development**. 
-
-This repository contains code for analyses pertaining to [A Categorical Variant Call to Action](https://docs.google.com/document/d/1IRo2JlgIPERZeT35wFAUuldWvhk7LRM7hvAhZ98hRro/edit?usp=sharing). Here, we intend to provide a broad background of the presence of categorical variants within genomic knowledge bases. 
+This repository contains code for analyses pertaining to [The GA4GH Categorical Variation Representation Specification: A Unified Computational Framework for Reasoning over Genomic Variant Categories](https://www.biorxiv.org/content/10.64898/2026.02.10.705161). Here, we intend to provide a broad background of the presence of categorical variants within genomic knowledge bases. 
 
 Supporting analyses include:
 - [Variant types in CIViC](./analyses/civic/)
